@@ -1,3 +1,7 @@
+0.6.0
+- New api. for now only english will work.
+0.5.8
+- added season 24
 0.5.7
 - fixed issue with DE random episode.
 0.5.6
